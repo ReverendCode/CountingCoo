@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountingCoo</string>
+
+    <string-array name="doors">
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+    </string-array>
+</resources>

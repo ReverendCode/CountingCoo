@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098984208492",
+    "firebase_url": "https://lodge-pop.firebaseio.com",
+    "project_id": "lodge-pop",
+    "storage_bucket": "lodge-pop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098984208492:android:86571e6b92a8f406f7c049",
+        "android_client_info": {
+          "package_name": "com.vaporware.countingcoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098984208492-prl7m72n0uf2hn2201isvkq7s4le1lms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPP1frY3nMFlK5IN89hDme5DzxCXJ9Odw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098984208492-prl7m72n0uf2hn2201isvkq7s4le1lms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
